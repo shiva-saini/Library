@@ -1,7 +1,5 @@
 console.log("welcome to shiva's library");
-//counter for book number
-let cnt = 1;
-
+//function constructor
 function Book(Type, Author, BookName, BookId) {
   this.Type = Type;
   this.Author = Author;
